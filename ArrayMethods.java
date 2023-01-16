@@ -1,5 +1,5 @@
 public class ArrayMethods implements ArrayInterface {
-
+    // attributes for array methods
     private int[] array;
     private int arraySize;
     private boolean dupKeysAllowed;
